@@ -1,0 +1,3 @@
+[submodule "quat-fractal/kulib"]
+	path = quat-fractal/kulib
+	url = git@github.com:badek2000/kulib.git
